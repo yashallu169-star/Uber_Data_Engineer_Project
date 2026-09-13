@@ -1,28 +1,28 @@
 [
   {
     "city_id": 1,
-    "city": "New York",
+    "city": "New New York",
     "state": "NY",
     "region": "Northeast",
     "updated_at": "2026-09-12T10:58:07.641+00:00"
   },
   {
     "city_id": 2,
-    "city": "Las Vegas",
+    "city": "New Las Vegas",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-09-13T10:58:07.641+00:00"
   },
   {
     "city_id": 3,
-    "city": "Chicago",
+    "city": "New Chicago",
     "state": "IL",
     "region": "Midwest",
     "updated_at": "2026-09-12T10:58:07.641+00:00"
   },
   {
     "city_id": 4,
-    "city": "Houston",
+    "city": "New Houston",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-09-12T10:58:07.641+00:00"
@@ -36,7 +36,7 @@
   },
   {
     "city_id": 6,
-    "city": "Philadelphia",
+    "city": "New Philadelphia",
     "state": "PA",
     "region": "Northeast",
     "updated_at": "2026-09-12T10:58:07.641+00:00"
@@ -57,7 +57,7 @@
   },
   {
     "city_id": 9,
-    "city": "Dallas",
+    "city": "New Dallas",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-09-12T10:58:07.641+00:00"
